@@ -23,5 +23,6 @@ st.markdown("● The app will locate the items in the store and let the customer
 st.markdown("● The app will let the customer know what products are out of inventory.")
 st.markdown(" ")
 st.title("Assignment 1 Reflection")
+st.markdown(" ")
 st.markdown("● The Anaconda command prompt worked for me. I need to be a better advocate for myself.")
 st.markdown("● Appreciation to Mo, Santoshi, and Professor Hamza for helping me with uncooperating device.")
