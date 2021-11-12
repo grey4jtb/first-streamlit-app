@@ -13,5 +13,10 @@ import plotly.express as px
 
 
 
-st.title("Assignment 1 help from Mo")
-st.markdown("This is a demo Streamlit app.")
+st.title("Assignment 1 Product Idea & Reflection")
+st.markdown("Joseph Boykin")
+st.markdown(" ")
+st.markdown("* The Application ")
+st.markdown(" ")
+st.markdown("+ User Input")
+st.markdown("blahblah")
