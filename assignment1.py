@@ -16,7 +16,7 @@ import re
 import numpy as np
 
 st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg")
-st.image("width=3,height=3")
+st.image("w,h,3")
 #st.image(caption='Locating items')
 
 
