@@ -12,7 +12,7 @@ from spacy.lang.en.product_name import PRODUCT_NAME
 import pickle as pkl
 from tqdm import tqdm
 import re
-install summarizer
+pip install text-summarizer==0.0.6
 from summarizer import Summarizer
 
 #prod_aisles = pd.read_csv('aisles.csv.zip', header=0)
