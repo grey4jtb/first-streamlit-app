@@ -8,11 +8,10 @@ import streamlit as st
 import pandas as pd
 
 import plotly.express as px
-from spacy.lang.en.product_name import PRODUCT_NAME
+#from spacy.lang.en.product_name import product_name
 import pickle as pkl
 from tqdm import tqdm
 import re
-import summarizer
 from summarizer import Summarizer
 
 #prod_aisles = pd.read_csv('aisles.csv.zip', header=0)
