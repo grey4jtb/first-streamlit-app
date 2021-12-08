@@ -14,7 +14,10 @@ from tqdm import tqdm
 import re
 from summarizer import Summarizer
 
+# Define Constants
+HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem; margin-bottom: 2.5rem">{}</div>"""
 #prod_aisles = pd.read_csv('aisles.csv.zip', header=0)
+
 prod_product = pd.read_csv('products.csv', header=0)
 # Define functions
 def lower_case(input_str):
