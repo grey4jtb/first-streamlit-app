@@ -15,7 +15,7 @@ import re
 #from summarizer import Summarizer
 import numpy as np
 
-st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg, width=3, height=3, caption=NONE")
+st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg, caption='Finding Items'")
 
 
 st.title("Final Project Presentation")
