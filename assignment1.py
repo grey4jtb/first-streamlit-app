@@ -12,8 +12,7 @@ from spacy.lang.en.product_name import product_name
 import pickle as pkl
 from tqdm import tqdm
 import re
-pip install bert-extractive-summarizer
-from summarizer import Summarizer, summarizer
+from summarizer import Summarizer
 
 #prod_aisles = pd.read_csv('aisles.csv.zip', header=0)
 prod_product = pd.read_csv('products.csv.zip', header=0)
