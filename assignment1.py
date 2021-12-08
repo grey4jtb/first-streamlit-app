@@ -13,16 +13,15 @@ import plotly.express as px
 
 
 
-st.title("Final 1 Product Idea")
+st.title("Final Project Presentation")
 st.markdown("Joseph Boykin")
 st.markdown(" ")
 st.title(" The Application: ITEM LOCATOR ")
 st.markdown(" ")
-st.markdown("● I am creating an app for stores where the customer enters the items they need, be it grocery items or items for a home repair. ")
+st.markdown("My app is designed to help consumers navigate their way around retail stores finding their specific items to purchase.  This will save consumers time wondering around searching for items.  "
+st.markdown("● The customer enters the items they are searching for. ")
 st.markdown("● The app will locate the items in the store and let the customer know where the items are located.")
-st.markdown("● The app will let the customer know what products are out of inventory.")
 st.markdown(" ")
 st.title("Assignment 1 Reflection")
 st.markdown(" ")
-st.markdown("● The Anaconda command prompt worked for me. I need to be a better advocate for myself.")
-st.markdown("● Appreciation to Mo, Santoshi, and Professor Hamza for helping me with uncooperating device.")
+st.markdown("● Appreciation to Santoshi for assisting me with my final project")
