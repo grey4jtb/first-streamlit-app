@@ -15,7 +15,7 @@ import re
 from summarizer import Summarizer
 
 #prod_aisles = pd.read_csv('aisles.csv.zip', header=0)
-prod_product = pd.read_csv('products.csv.zip', header=0)
+prod_product = pd.read_csv('products.csv', header=0)
 # Define functions
 def lower_case(input_str):
     input_str = input_str.lower()
