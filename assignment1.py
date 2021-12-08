@@ -15,8 +15,8 @@ import re
 #from summarizer import Summarizer
 import numpy as np
 
-st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg")
-#image_url="https://www.alamy.com/side-view-of-african-american-man-with-shopping-cart-at-hardware-store-image269287975.html"
+st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg, width=3, height=3, caption=NONE")
+
 
 st.title("Final Project Presentation")
 st.markdown("Joseph Boykin")
