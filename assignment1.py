@@ -13,7 +13,7 @@ import plotly.express as px
 
 
 
-st.title("Assignment 1 Product Idea")
+st.title("Final 1 Product Idea")
 st.markdown("Joseph Boykin")
 st.markdown(" ")
 st.title(" The Application: ITEM LOCATOR ")
