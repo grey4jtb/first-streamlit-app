@@ -16,7 +16,8 @@ import re
 import numpy as np
 
 
-
+st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg", caption='Finding Items', use_column_width=3, clamp=False, channels="RGB")
+st.image(caption='Finding products in your favorite store')
 
 
 st.title("Final Project Presentation")
@@ -34,4 +35,3 @@ st.markdown("● Appreciation to Santoshi for assisting me with my final project
 st.markdown("● Need to better advocate for myself. ")
 
 
-st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg", caption='Finding Items', use_column_width=3, clamp=False, channels="RGB", width=300, heigth=500)
