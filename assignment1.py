@@ -9,12 +9,14 @@ import pandas as pd
 
 import plotly.express as px
 #from spacy.lang.en.product_name import product_name
-import pickle as pkl
-from tqdm import tqdm
+#import pickle as pkl
+#from tqdm import tqdm
 import re
-from summarizer import Summarizer
+#from summarizer import Summarizer
+import numpy as np
 
-
+st.image("https://www.alamy.com/side-view-of-african-american-man-with-shopping-cart-at-hardware-store-image269287975.html")
+#image_url="https://www.alamy.com/side-view-of-african-american-man-with-shopping-cart-at-hardware-store-image269287975.html"
 
 st.title("Final Project Presentation")
 st.markdown("Joseph Boykin")
