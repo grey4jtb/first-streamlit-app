@@ -18,7 +18,7 @@ import numpy as np
 
 st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg", caption='Finding items in your favorite retailer', use_column_width=3, clamp=False, channels="RGB")
 
-
+st.text("What are you looking for?")
 
 st.title("Final Project Presentation")
 st.markdown("Joseph Boykin")
