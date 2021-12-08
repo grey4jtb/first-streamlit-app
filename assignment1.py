@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 
 import plotly.express as px
-from spacy.lang.en.product_name import product_name
+#from spacy.lang.en.product_name import product_name
 import pickle as pkl
 from tqdm import tqdm
 import re
