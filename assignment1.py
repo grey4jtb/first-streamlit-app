@@ -14,9 +14,11 @@ import numpy as np
 
 st.image("https://previews.123rf.com/images/seamartini/seamartini1708/seamartini170800284/83982313-work-tools-poster-for-hardware-store-design.jpg", caption='Finding items in your favorite retailer', width=1000,use_column_width=3, clamp=False, channels="RGB")
 
-st.subheader("What are you looking for?")
+st.sidebar("What are you looking for?")
+#st.subheader("What are you looking for?")
 st.markdown(" ")
-st.subheader("Your item is located in aisle:")
+st.sidebar("Your item is located in aisle:")
+#st.subheader("Your item is located in aisle:")
 st.markdown(" ")
 
 
