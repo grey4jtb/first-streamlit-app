@@ -31,7 +31,7 @@ st.markdown("● The app will locate the items in the store and let the customer
 st.markdown(" ")
 st.title("Final Project Reflection")
 st.markdown(" ")
-st.markdown("● Appreciation to Santoshi for assisting me with my final project!")
+st.markdown("● Appreciation to Santoshi & Professor Hamza for assisting me with my final project!")
 st.markdown("● Need to better advocate for myself, by speaking up sooner if I do not understand the task at hand. ")
 
 
